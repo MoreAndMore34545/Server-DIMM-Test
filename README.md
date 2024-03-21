@@ -9,3 +9,4 @@ Function Descriptions:
 5.  dram address is defined as SOCKET/MC/CHANNEL/DIMM/RANK/GROUP/BANK/ROW/COL;
 6. failed DQs and Chips are decoded and logged in log file.  
 
+![Uploading d87089828f000cc08f9134eb5ffc839.jpg…]()
